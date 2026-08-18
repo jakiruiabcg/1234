@@ -1,0 +1,10 @@
+{
+  "name": "Passport Scanner & Record Management",
+  "description": "AI-powered passport auto-scanner and record management system with OCR, MRZ detection, Excel export, and Google Sheets sync.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
